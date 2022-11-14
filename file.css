@@ -380,9 +380,10 @@
     justify-content: center;
 
 }
- .education .sectionshead{
-    /* margin-left: 10% ; */
- }
+
+ /* .education .sectionshead{
+     margin-left: 10% ; 
+ } */
 
 .eduboxwrap {
     display: flex;
